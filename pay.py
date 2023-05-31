@@ -2,6 +2,7 @@ import pymysql
 import telebot
 from telebot import types
 
+
 bot = telebot.TeleBot('6095783736:AAFq6Rk02iz9bu0wAiQZAz2-1ehNTyxDeBw')
 host = "127.0.0.1"
 user = "root"
